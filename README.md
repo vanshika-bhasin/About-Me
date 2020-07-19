@@ -1,11 +1,19 @@
 My name is Vanshika.
-I am from Kurukshetra. 
-I am pursuing B.Tech in Computer Science from UIET Kurukshetra and currently I am in third year.
+I am pre-final year CSE student at UIET, Kurukshetra.
 
-## My Technical skills are:
+## My Technical skills
 
 - HTML
 - CSS
 - Bootstrap
+- SQL
 - C++
 - Data Structures and Algorithms
+
+Currently I am learning Javascript
+
+## My Hobbies
+
+- Listning to Music
+- Reading
+- Learning new and creative things
