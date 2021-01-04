@@ -14,6 +14,6 @@ Currently I am learning Javascript
 
 ## My Hobbies
 
-- Listning to Music
+- Listning Music
 - Reading
 - Learning new and creative things
